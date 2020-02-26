@@ -27,7 +27,7 @@ taux_dapprentissage=0.1
 #nombre d'itérations
 nb_itération=8
 
-#nombre d'observations= 4 ; [0, 0], [0, 1], [1, 0], [1, 1] 
+#nombre d'observations= 2 ; [0] [1] 
 nb_observation=2
 
 
